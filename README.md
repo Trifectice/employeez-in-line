@@ -2,7 +2,7 @@
 
 A Node.js command-line interface application to manage employees, roles, and departments in a company.
 
-![Screenshot of Application](./assets/)
+![Screenshot of Application](./assets/Screenshot%202023-08-24%20at%208.22.47%20PM.png)
 
 ## Table of Contents
 
